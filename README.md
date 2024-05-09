@@ -1,5 +1,5 @@
 # Predicting_Body_Fat_Using_Regression_MLA
-In this section we well be predicting body fat using regression machine learning algorithms
+In this section we will be predicting body fat using regression machine learning algorithms
 
 ________________________
 
